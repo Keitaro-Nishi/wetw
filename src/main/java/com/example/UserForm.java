@@ -1,4 +1,5 @@
-package com.example.demo;
+package com.example;
+
 public class UserForm {
 
 	private Integer no;

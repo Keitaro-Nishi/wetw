@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
