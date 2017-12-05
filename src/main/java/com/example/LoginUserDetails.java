@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.demo.LoginUser;
+import com.example.LoginUser;
 import lombok.Data;
 
 @SuppressWarnings("serial")

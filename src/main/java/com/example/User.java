@@ -1,8 +1,7 @@
-package com.example.demo;
+package com.example;
 
 import java.io.Serializable;
 import javax.persistence.*;
-
 
 /**
  * The persistent class for the springuser database table.
