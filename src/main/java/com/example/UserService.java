@@ -1,3 +1,4 @@
+/*
 package com.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,5 +17,5 @@ public class UserService  {
 		User user = new User(no,userid,username,orgname,password,effect,auth);
         repository.save(user);
     }
-
 }
+*/

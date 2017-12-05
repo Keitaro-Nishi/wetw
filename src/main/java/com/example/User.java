@@ -1,12 +1,9 @@
+/*
 package com.example;
 
 import java.io.Serializable;
 import javax.persistence.*;
 
-/**
- * The persistent class for the springuser database table.
- * 
- */
 @Entity
 @Table(name="userdata")
 //@NamedQuery(name="User.findAll", query="SELECT u FROM User u")
@@ -101,3 +98,4 @@ public class User implements Serializable {
 		this.auth = auth;
 	}
 }
+*/

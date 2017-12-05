@@ -7,11 +7,6 @@ import javax.persistence.*;
 
 import org.springframework.security.core.GrantedAuthority;
 
-
-/**
- * The persistent class for the springuser database table.
- * 
- */
 @Entity
 @Table(name="userdata")
 //@NamedQuery(name="User.findAll", query="SELECT u FROM User u")
